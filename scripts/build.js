@@ -1,0 +1,1 @@
+const fs=require('fs'),path=require('path');fs.rmSync('dist',{recursive:true,force:true});fs.mkdirSync('dist');for(const f of ['index.html','style.css','app.js','manifest.json']){if(fs.existsSync(f))fs.copyFileSync(f,path.join('dist',f))}console.log('Built Sail7 static app to dist/');
