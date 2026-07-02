@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Sail7 app preview</title><desc id="desc">A dark blue marketing preview showing the Sail7 brand beside a mobile app home screen, research result, itinerary, comparison, and sources cards.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#020713"/><stop offset="1" stop-color="#071a3a"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#73b8ff"/><stop offset="1" stop-color="#315bff"/></linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#091120"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="760" fill="url(#bg)"/>
+<circle cx="820" cy="70" r="250" fill="#244bff" opacity=".12"/>
+<g transform="translate(54 85)">
+  <path d="M0 42h80L68 150 126 12 30 12z" fill="url(#blue)" filter="url(#glow)"/>
+  <text x="0" y="205" font-family="Inter,Arial" font-size="58" font-weight="800" fill="white">Sail7</text>
+  <text x="0" y="250" font-family="Inter,Arial" font-size="24" fill="#eef4ff">AI Search. Deep Answers.</text>
+  <text x="0" y="283" font-family="Inter,Arial" font-size="24" font-weight="700" fill="#6d7dff">Built Together.</text>
+  <g font-family="Inter,Arial" font-size="18" fill="white">
+    <text y="350">✦  AI-Powered Search</text><text y="405">⌕  Deep Research</text><text y="460">▣  Real-Time Sources</text><text y="515">♧  Group Collaboration</text><text y="570">↗  Share &amp; Build</text>
+  </g>
+</g>
+<g transform="translate(338 40)">
+  <rect width="310" height="650" rx="36" fill="#050b16" stroke="#39445c" stroke-width="3"/>
+  <rect x="17" y="18" width="276" height="614" rx="26" fill="url(#card)"/>
+  <text x="38" y="55" fill="white" font-size="13" font-family="Arial" font-weight="700">9:41</text><rect x="125" y="29" width="61" height="18" rx="9" fill="#02050b"/>
+  <path d="M119 91h44l-7 39 32-52-54 0z" fill="url(#blue)"/><text x="166" y="105" fill="white" font-size="22" font-family="Arial" font-weight="700">Sail7</text>
+  <text x="61" y="173" fill="white" font-size="23" font-family="Arial" font-weight="700">What do you want to</text><text x="100" y="204" fill="#6d7dff" font-size="23" font-family="Arial" font-weight="700">figure out?</text>
+  <rect x="34" y="238" width="242" height="55" rx="18" fill="#121d33"/><text x="72" y="272" fill="#9ca8bd" font-size="14" font-family="Arial">Ask anything...</text><circle cx="250" cy="265" r="20" fill="url(#blue)"/><text x="244" y="272" fill="white" font-size="19">➜</text>
+  <text x="34" y="345" fill="#9ca8bd" font-size="13" font-family="Arial">Try searching</text>
+  <g fill="#121d33" stroke="#1d2b48"><rect x="34" y="366" width="114" height="82" rx="13"/><rect x="162" y="366" width="114" height="82" rx="13"/><rect x="34" y="462" width="114" height="82" rx="13"/><rect x="162" y="462" width="114" height="82" rx="13"/></g>
+  <g fill="white" font-size="13" font-family="Arial"><text x="46" y="410">Best laptops</text><text x="46" y="428">for developers</text><text x="174" y="410">Plan a 5 day</text><text x="174" y="428">trip to Japan</text><text x="46" y="506">Compare</text><text x="46" y="524">MacBook Air</text><text x="174" y="506">Best AI tools</text><text x="174" y="524">for startups</text></g>
+  <rect x="17" y="578" width="276" height="54" fill="#07101f"/><g fill="#7c93ff" font-size="18"><text x="49" y="612">⌂</text><text x="118" y="612">▣</text><text x="188" y="612">＋</text><text x="255" y="612">♙</text></g>
+</g>
+<g transform="translate(690 58)" font-family="Inter,Arial">
+  <text x="0" y="0" fill="white" font-size="24" font-weight="800">What it looks like in the app</text>
+  <text x="0" y="32" fill="#aeb9d0" font-size="15">Working screens included in the Sail7 prototype.</text>
+  <g transform="translate(0 70)"><rect width="430" height="122" rx="18" fill="#101a2c" stroke="#263657"/><text x="22" y="36" fill="white" font-size="18" font-weight="700">🤖 Sail7 Summary</text><text x="22" y="65" fill="#cfd9ed" font-size="14">Analyzes sources and turns them into concise answers.</text><text x="22" y="94" fill="#8fb7ff" font-size="14">✓ Tokyo · Kyoto · Osaka · Mount Fuji</text></g>
+  <g transform="translate(0 215)"><rect width="204" height="170" rx="18" fill="#101a2c" stroke="#263657"/><text x="22" y="35" fill="white" font-size="17" font-weight="700">Itinerary</text><line x1="77" y1="56" x2="77" y2="136" stroke="#ffc629" stroke-width="3"/><circle cx="77" cy="62" r="6" fill="#ffc629"/><circle cx="77" cy="108" r="6" fill="#ffc629"/><text x="20" y="66" fill="#fff" font-size="12">8:30</text><text x="96" y="67" fill="#fff" font-size="13">Arrive in Tokyo</text><text x="96" y="113" fill="#fff" font-size="13">Shibuya Crossing</text><text x="20" y="151" fill="#9ca8bd" font-size="12">Total est.</text><text x="135" y="151" fill="white" font-size="18" font-weight="700">$425</text></g>
+  <g transform="translate(226 215)"><rect width="204" height="170" rx="18" fill="#101a2c" stroke="#315bff"/><text x="22" y="35" fill="white" font-size="17" font-weight="700">Compare</text><rect x="24" y="55" width="58" height="42" rx="6" fill="url(#blue)"/><rect x="122" y="55" width="58" height="42" rx="6" fill="#22415d"/><text x="92" y="82" fill="white" font-size="12" font-weight="700">VS</text><circle cx="53" cy="126" r="25" fill="#142448" stroke="#315bff"/><circle cx="151" cy="126" r="25" fill="#142448"/><text x="42" y="133" fill="white" font-size="17" font-weight="700">4.8</text><text x="140" y="133" fill="white" font-size="17" font-weight="700">4.4</text></g>
+  <g transform="translate(0 410)"><rect width="430" height="155" rx="18" fill="#101a2c" stroke="#263657"/><text x="22" y="35" fill="white" font-size="17" font-weight="700">Sources</text><text x="22" y="70" fill="#8fb7ff" font-size="15">1</text><text x="55" y="70" fill="white" font-size="14">CNBC — Best laptops for developers</text><text x="22" y="103" fill="#8fb7ff" font-size="15">2</text><text x="55" y="103" fill="white" font-size="14">The Verge — MacBook Air M3 review</text><rect x="22" y="122" width="386" height="22" rx="11" fill="url(#blue)"/><text x="170" y="138" fill="white" font-size="12" font-weight="700">View All 120 Sources</text></g>
+</g>
+</svg>
